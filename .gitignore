@@ -1,0 +1,14 @@
+.vs
+.vs/*
+obj
+obj/*
+*.pdb
+*.db
+*.VC.db
+*.VC
+bin/*.dll
+bin/*.dll
+bin/*.exp
+bin/*.lib
+bin/*.exe
+bin/data/*.weights

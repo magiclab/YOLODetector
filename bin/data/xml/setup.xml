@@ -1,0 +1,14 @@
+<setup>
+	<camera>
+		<dev_id>5</dev_id>
+		<width>640</width>
+		<height>480</height>
+	</camera>
+	
+	<yolo>
+		<data>cfg/coco.data</data>
+		<cfg>cfg/tiny-yolo.cfg</cfg>
+		<weights>tiny-yolo.weights</weights>
+		<names>cfg/coco.names</names>
+	</yolo>
+</setup>
